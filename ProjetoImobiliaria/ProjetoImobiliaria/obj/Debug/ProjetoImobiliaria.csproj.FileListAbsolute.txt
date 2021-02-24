@@ -1,0 +1,9 @@
+C:\Users\Hugo\source\repos\ProjetoImobiliaria\ProjetoImobiliaria\bin\Debug\ProjetoImobiliaria.exe.config
+C:\Users\Hugo\source\repos\ProjetoImobiliaria\ProjetoImobiliaria\bin\Debug\ProjetoImobiliaria.exe
+C:\Users\Hugo\source\repos\ProjetoImobiliaria\ProjetoImobiliaria\bin\Debug\ProjetoImobiliaria.pdb
+C:\Users\Hugo\source\repos\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.csprojAssemblyReference.cache
+C:\Users\Hugo\source\repos\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.Properties.Resources.resources
+C:\Users\Hugo\source\repos\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.csproj.GenerateResource.cache
+C:\Users\Hugo\source\repos\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\repos\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.exe
+C:\Users\Hugo\source\repos\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.pdb
