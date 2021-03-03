@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\Anuncio.cs" />
     <Compile Include="Classes\Endereco.cs" />
     <Compile Include="FormPrincipal.cs">
       <SubType>Form</SubType>
