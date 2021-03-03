@@ -8,5 +8,6 @@ namespace ProjetoImobiliaria.Classes
 {
     class Endereco
     {
+        public string Logradouro { get; set; }
     }
 }

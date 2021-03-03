@@ -13,7 +13,7 @@ namespace ProjetoImobiliaria.Classes
 		public string CPF_CNPJ { get; set; }
 		public string TipoPessoa { get; set; }
 		public string PessoaFisicaOuJuridica { get; set; }
-		public string Endereco { get; set; }
-		public List<string> Telefone { get; set; }
+		public Endereco Endereco { get; set; }
+        public List<Telefone> Telefone { get; set; }
 	}
 }
