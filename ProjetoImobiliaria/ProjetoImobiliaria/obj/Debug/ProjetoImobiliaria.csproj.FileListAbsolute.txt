@@ -32,3 +32,4 @@ E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-09-03-21\ProjetoImobi
 E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-09-03-21\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.csproj.CoreCompileInputs.cache
 E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-09-03-21\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.exe
 E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-09-03-21\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.pdb
+C:\Users\Hugo\Source\Repos\Imobiliaria\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.csprojAssemblyReference.cache

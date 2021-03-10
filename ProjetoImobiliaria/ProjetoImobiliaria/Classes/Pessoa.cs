@@ -14,6 +14,6 @@ namespace ProjetoImobiliaria.Classes
 		public string TipoPessoa { get; set; }
 		public string PessoaFisicaOuJuridica { get; set; }
 		public Endereco Endereco { get; set; }
-        public List<Telefone> Telefone { get; set; }
+        public List<Telefone> ListaTelefonica { get; set; }
 	}
 }
