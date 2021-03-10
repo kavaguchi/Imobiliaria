@@ -97,12 +97,9 @@ namespace ProjetoImobiliaria
 
             // Provide the query string with a parameter placeholder.
             string queryString =
-                "SELECT ProductID, UnitPrice, ProductName from dbo.products "
-                    + "WHERE UnitPrice > @pricePoint "
-                    + "ORDER BY UnitPrice DESC;";
+                "SELECT NOME from Imobiliaria..Pessoa ";
 
             // Specify the parameter value.
-            int paramValue = 5;
 
             // Create and open the connection in a using block. This
             // ensures that all resources will be closed and disposed
@@ -112,7 +109,7 @@ namespace ProjetoImobiliaria
             {
                 // Create the Command and Parameter objects.
                 SqlCommand command = new SqlCommand(queryString, connection);
-                command.Parameters.AddWithValue("@pricePoint", paramValue);
+                //command.Parameters.AddWithValue("@pricePoint", paramValue);
 
                 // Open the connection in a try/catch block.
                 // Create and execute the DataReader, writing the result
@@ -123,8 +120,7 @@ namespace ProjetoImobiliaria
                     SqlDataReader reader = command.ExecuteReader();
                     while (reader.Read())
                     {
-                        Console.WriteLine("\t{0}\t{1}\t{2}",
-                            reader[0], reader[1], reader[2]);
+                        MessageBox.Show(reader[0].ToString());
                     }
                     reader.Close();
                 }
