@@ -25,15 +25,25 @@ namespace ProjetoImobiliaria
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Pessoa      pessoaAguinaldo      = new Pessoa();
-            Endereco enderecoAguinaldo = new Endereco();
+            //Instanciei um objeto chamado pessoaAguinaldo
+            PessoaAguinaldoTeste pessoaAguinaldo  = new PessoaAguinaldoTeste();
+            
 
             pessoaAguinaldo.Nome = "AGUINALDO";
+            pessoaAguinaldo.NomeDaMae = "maria";
+            pessoaAguinaldo.NomeDoCachorro = "Marlon";
+            pessoaAguinaldo.NumeroCarMotorista = "87956444";
+            
+            //aqui é tipo List?
+            //public string ListaDeFilmesFavoritos { get; set; }
+
             pessoaAguinaldo.RG_IE = "1234";
+            pessoaAguinaldo.CPF_CNPJ = "258068982511";
+            pessoaAguinaldo.PessoaFisicaOuJuridica = "Fisica";
+            pessoaAguinaldo.NumeroCelular= "99955558777";
+            pessoaAguinaldo.Endereco = "Avenida cosmos n89";
 
-            enderecoAguinaldo.Logradouro = "Avenida Nove de Julho";
 
-            pessoaAguinaldo.Endereco = enderecoAguinaldo;
 
 
         }

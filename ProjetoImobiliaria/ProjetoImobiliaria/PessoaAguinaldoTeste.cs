@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ProjetoImobiliaria
+{
+    class PessoaAguinaldoTeste
+    {
+        public string Nome { get; set; }
+        public string NomeDaMae { get; set; }
+        public string NumeroCarMotorista { get; set; }
+        //aqui é tipo List?
+        public string ListaDeFilmesFavoritos { get; set; }
+        public string NomeDoCachorro { get; set; }
+        public string RG_IE { get; set; }
+        public string CPF_CNPJ { get; set; }
+        //get pede permissão pra acessar? e set seta uma informação?
+        public string NumeroCelular { get; set; }
+        public string PessoaFisicaOuJuridica { get; set; }
+        public string Endereco { get; set; }
+        
+    }
+}

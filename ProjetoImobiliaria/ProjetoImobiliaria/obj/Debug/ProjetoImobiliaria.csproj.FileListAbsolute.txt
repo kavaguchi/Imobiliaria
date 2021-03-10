@@ -25,3 +25,10 @@ C:\Users\Hugo\source\repos\imobiliaria\ProjetoImobiliaria\ProjetoImobiliaria\obj
 C:\Users\Hugo\source\repos\imobiliaria\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.csproj.CoreCompileInputs.cache
 C:\Users\Hugo\source\repos\imobiliaria\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.exe
 C:\Users\Hugo\source\repos\imobiliaria\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.pdb
+E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-09-03-21\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.csprojAssemblyReference.cache
+E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-09-03-21\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.FormPrincipal.resources
+E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-09-03-21\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.Properties.Resources.resources
+E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-09-03-21\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.csproj.GenerateResource.cache
+E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-09-03-21\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.csproj.CoreCompileInputs.cache
+E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-09-03-21\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.exe
+E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-09-03-21\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.pdb
