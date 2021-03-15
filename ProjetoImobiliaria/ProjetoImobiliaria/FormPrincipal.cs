@@ -122,5 +122,10 @@ namespace ProjetoImobiliaria
                 Console.ReadLine();
             }
             }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
