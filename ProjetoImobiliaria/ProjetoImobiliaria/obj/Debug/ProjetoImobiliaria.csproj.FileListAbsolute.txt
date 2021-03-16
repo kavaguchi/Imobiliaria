@@ -44,3 +44,11 @@ E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-15-03-2021\ProjetoImo
 E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-15-03-2021\ProjetoImobiliaria\ProjetoImobiliaria\bin\Debug\ProjetoImobiliaria.exe
 E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-15-03-2021\ProjetoImobiliaria\ProjetoImobiliaria\bin\Debug\ProjetoImobiliaria.pdb
 E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-15-03-2021\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.CadastroDeImovel.resources
+C:\Users\ana\Source\Repos\Imobiliaria\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.csprojAssemblyReference.cache
+C:\Users\ana\Source\Repos\Imobiliaria\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.CadastroDeImovel.resources
+C:\Users\ana\Source\Repos\Imobiliaria\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.FormPrincipal.resources
+C:\Users\ana\Source\Repos\Imobiliaria\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.Properties.Resources.resources
+C:\Users\ana\Source\Repos\Imobiliaria\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.csproj.GenerateResource.cache
+C:\Users\ana\Source\Repos\Imobiliaria\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.csproj.CoreCompileInputs.cache
+C:\Users\ana\Source\Repos\Imobiliaria\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.exe
+C:\Users\ana\Source\Repos\Imobiliaria\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.pdb
