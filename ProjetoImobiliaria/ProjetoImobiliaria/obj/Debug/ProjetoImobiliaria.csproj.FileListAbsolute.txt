@@ -65,3 +65,5 @@ E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-17-03-2021\ProjetoImo
 E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-17-03-2021\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.csproj.CoreCompileInputs.cache
 E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-17-03-2021\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.exe
 E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-17-03-2021\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.pdb
+C:\Users\Hugo\Source\Repos\Imobiliaria\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.CadastroCliente.resources
+C:\Users\Hugo\Source\Repos\Imobiliaria\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.CadastroDeImovel.resources

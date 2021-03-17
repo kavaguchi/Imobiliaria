@@ -9,8 +9,8 @@ namespace ProjetoImobiliaria.Classes
     class Imovel
     {
 			public int Codigo { get; set; }
-			public string TipoImovel { get; set; }
-			public string Endereco { get; set; }
+			public int TipoImovel { get; set; }
+			public Endereco Endereco { get; set; }
 			public string Area { get; set; }
 			public double Metragem { get; set; }
 			public double Valor { get; set; }

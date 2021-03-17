@@ -60,6 +60,7 @@
     </Compile>
     <Compile Include="Classes\Anuncio.cs" />
     <Compile Include="Classes\Endereco.cs" />
+    <Compile Include="Classes\EnumTipos.cs" />
     <Compile Include="Classes\Imovel.cs" />
     <Compile Include="Classes\Pessoa.cs" />
     <Compile Include="Classes\Telefone.cs" />

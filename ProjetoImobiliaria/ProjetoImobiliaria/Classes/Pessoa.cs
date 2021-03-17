@@ -10,6 +10,7 @@ namespace ProjetoImobiliaria.Classes
     {
 		public string Nome { get; set; }
 		public string RG_IE { get; set; }
+		public string Email { get; set; }
 		public string CPF_CNPJ { get; set; }
 		public string TipoPessoa { get; set; }
 		public string PessoaFisicaOuJuridica { get; set; }

@@ -46,14 +46,15 @@ namespace ProjetoImobiliaria
             this.label_DadosImovel = new System.Windows.Forms.Label();
             this.label_Numero = new System.Windows.Forms.Label();
             this.label_Complemento = new System.Windows.Forms.Label();
-            this.txb_Email = new System.Windows.Forms.TextBox();
             this.label_Endereco = new System.Windows.Forms.Label();
-            this.label_Email = new System.Windows.Forms.Label();
-            this.label_telefone = new System.Windows.Forms.Label();
-            this.txb_telefone = new System.Windows.Forms.TextBox();
-            this.label_Nome = new System.Windows.Forms.Label();
-            this.txb_Nome = new System.Windows.Forms.TextBox();
             this.label14 = new System.Windows.Forms.Label();
+            this.txb_Nome = new System.Windows.Forms.TextBox();
+            this.label_Nome = new System.Windows.Forms.Label();
+            this.txb_telefone = new System.Windows.Forms.TextBox();
+            this.label_telefone = new System.Windows.Forms.Label();
+            this.label_Email = new System.Windows.Forms.Label();
+            this.txb_Email = new System.Windows.Forms.TextBox();
+            this.btnGravar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // txb_Mensagem
@@ -195,13 +196,6 @@ namespace ProjetoImobiliaria
             this.label_Complemento.TabIndex = 62;
             this.label_Complemento.Text = "Complemento:";
             // 
-            // txb_Email
-            // 
-            this.txb_Email.Location = new System.Drawing.Point(74, 101);
-            this.txb_Email.Name = "txb_Email";
-            this.txb_Email.Size = new System.Drawing.Size(346, 20);
-            this.txb_Email.TabIndex = 60;
-            // 
             // label_Endereco
             // 
             this.label_Endereco.AutoSize = true;
@@ -210,47 +204,6 @@ namespace ProjetoImobiliaria
             this.label_Endereco.Size = new System.Drawing.Size(56, 13);
             this.label_Endereco.TabIndex = 61;
             this.label_Endereco.Text = "Endereço:";
-            // 
-            // label_Email
-            // 
-            this.label_Email.AutoSize = true;
-            this.label_Email.Location = new System.Drawing.Point(14, 107);
-            this.label_Email.Name = "label_Email";
-            this.label_Email.Size = new System.Drawing.Size(38, 13);
-            this.label_Email.TabIndex = 59;
-            this.label_Email.Text = "E-mail:";
-            // 
-            // label_telefone
-            // 
-            this.label_telefone.AutoSize = true;
-            this.label_telefone.Location = new System.Drawing.Point(429, 107);
-            this.label_telefone.Name = "label_telefone";
-            this.label_telefone.Size = new System.Drawing.Size(55, 13);
-            this.label_telefone.TabIndex = 58;
-            this.label_telefone.Text = "Telefone: ";
-            // 
-            // txb_telefone
-            // 
-            this.txb_telefone.Location = new System.Drawing.Point(490, 104);
-            this.txb_telefone.Name = "txb_telefone";
-            this.txb_telefone.Size = new System.Drawing.Size(282, 20);
-            this.txb_telefone.TabIndex = 57;
-            // 
-            // label_Nome
-            // 
-            this.label_Nome.AutoSize = true;
-            this.label_Nome.Location = new System.Drawing.Point(14, 69);
-            this.label_Nome.Name = "label_Nome";
-            this.label_Nome.Size = new System.Drawing.Size(38, 13);
-            this.label_Nome.TabIndex = 55;
-            this.label_Nome.Text = "Nome:";
-            // 
-            // txb_Nome
-            // 
-            this.txb_Nome.Location = new System.Drawing.Point(74, 66);
-            this.txb_Nome.Name = "txb_Nome";
-            this.txb_Nome.Size = new System.Drawing.Size(698, 20);
-            this.txb_Nome.TabIndex = 54;
             // 
             // label14
             // 
@@ -261,11 +214,70 @@ namespace ProjetoImobiliaria
             this.label14.TabIndex = 53;
             this.label14.Text = "Seus Dados";
             // 
+            // txb_Nome
+            // 
+            this.txb_Nome.Location = new System.Drawing.Point(74, 66);
+            this.txb_Nome.Name = "txb_Nome";
+            this.txb_Nome.Size = new System.Drawing.Size(698, 20);
+            this.txb_Nome.TabIndex = 54;
+            // 
+            // label_Nome
+            // 
+            this.label_Nome.AutoSize = true;
+            this.label_Nome.Location = new System.Drawing.Point(14, 69);
+            this.label_Nome.Name = "label_Nome";
+            this.label_Nome.Size = new System.Drawing.Size(38, 13);
+            this.label_Nome.TabIndex = 55;
+            this.label_Nome.Text = "Nome:";
+            // 
+            // txb_telefone
+            // 
+            this.txb_telefone.Location = new System.Drawing.Point(490, 104);
+            this.txb_telefone.Name = "txb_telefone";
+            this.txb_telefone.Size = new System.Drawing.Size(282, 20);
+            this.txb_telefone.TabIndex = 57;
+            // 
+            // label_telefone
+            // 
+            this.label_telefone.AutoSize = true;
+            this.label_telefone.Location = new System.Drawing.Point(429, 107);
+            this.label_telefone.Name = "label_telefone";
+            this.label_telefone.Size = new System.Drawing.Size(55, 13);
+            this.label_telefone.TabIndex = 58;
+            this.label_telefone.Text = "Telefone: ";
+            // 
+            // label_Email
+            // 
+            this.label_Email.AutoSize = true;
+            this.label_Email.Location = new System.Drawing.Point(14, 107);
+            this.label_Email.Name = "label_Email";
+            this.label_Email.Size = new System.Drawing.Size(38, 13);
+            this.label_Email.TabIndex = 59;
+            this.label_Email.Text = "E-mail:";
+            // 
+            // txb_Email
+            // 
+            this.txb_Email.Location = new System.Drawing.Point(74, 101);
+            this.txb_Email.Name = "txb_Email";
+            this.txb_Email.Size = new System.Drawing.Size(346, 20);
+            this.txb_Email.TabIndex = 60;
+            // 
+            // btnGravar
+            // 
+            this.btnGravar.Location = new System.Drawing.Point(74, 485);
+            this.btnGravar.Name = "btnGravar";
+            this.btnGravar.Size = new System.Drawing.Size(75, 23);
+            this.btnGravar.TabIndex = 79;
+            this.btnGravar.Text = "Gravar";
+            this.btnGravar.UseVisualStyleBackColor = true;
+            this.btnGravar.Click += new System.EventHandler(this.btnGravar_Click);
+            // 
             // CadastroDeImovel
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(784, 561);
+            this.Controls.Add(this.btnGravar);
             this.Controls.Add(this.txb_Mensagem);
             this.Controls.Add(this.label_Mensagem);
             this.Controls.Add(this.label_Descricao);
@@ -317,13 +329,14 @@ namespace ProjetoImobiliaria
         private System.Windows.Forms.Label label_DadosImovel;
         private System.Windows.Forms.Label label_Numero;
         private System.Windows.Forms.Label label_Complemento;
-        private System.Windows.Forms.TextBox txb_Email;
         private System.Windows.Forms.Label label_Endereco;
-        private System.Windows.Forms.Label label_Email;
-        private System.Windows.Forms.Label label_telefone;
-        private System.Windows.Forms.TextBox txb_telefone;
-        private System.Windows.Forms.Label label_Nome;
-        private System.Windows.Forms.TextBox txb_Nome;
         private System.Windows.Forms.Label label14;
+        private System.Windows.Forms.TextBox txb_Nome;
+        private System.Windows.Forms.Label label_Nome;
+        private System.Windows.Forms.TextBox txb_telefone;
+        private System.Windows.Forms.Label label_telefone;
+        private System.Windows.Forms.Label label_Email;
+        private System.Windows.Forms.TextBox txb_Email;
+        private System.Windows.Forms.Button btnGravar;
     }
 }
