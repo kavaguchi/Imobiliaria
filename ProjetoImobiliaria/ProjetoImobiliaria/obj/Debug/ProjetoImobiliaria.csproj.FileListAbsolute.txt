@@ -53,3 +53,15 @@ C:\Users\ana\Source\Repos\Imobiliaria\ProjetoImobiliaria\ProjetoImobiliaria\obj\
 C:\Users\ana\Source\Repos\Imobiliaria\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.exe
 C:\Users\ana\Source\Repos\Imobiliaria\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.pdb
 C:\Users\ana\Source\Repos\Imobiliaria\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.CadastroCliente.resources
+E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-17-03-2021\ProjetoImobiliaria\ProjetoImobiliaria\bin\Debug\ProjetoImobiliaria.exe.config
+E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-17-03-2021\ProjetoImobiliaria\ProjetoImobiliaria\bin\Debug\ProjetoImobiliaria.exe
+E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-17-03-2021\ProjetoImobiliaria\ProjetoImobiliaria\bin\Debug\ProjetoImobiliaria.pdb
+E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-17-03-2021\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.csprojAssemblyReference.cache
+E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-17-03-2021\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.CadastroCliente.resources
+E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-17-03-2021\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.CadastroDeImovel.resources
+E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-17-03-2021\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.FormPrincipal.resources
+E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-17-03-2021\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.Properties.Resources.resources
+E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-17-03-2021\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.csproj.GenerateResource.cache
+E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-17-03-2021\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.csproj.CoreCompileInputs.cache
+E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-17-03-2021\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.exe
+E:\download\EstudoImobiliaria\exercicio\ProjetoImobiliaria-17-03-2021\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.pdb

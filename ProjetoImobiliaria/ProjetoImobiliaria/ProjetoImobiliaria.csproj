@@ -64,7 +64,6 @@
     <Compile Include="Classes\Pessoa.cs" />
     <Compile Include="Classes\Telefone.cs" />
     <Compile Include="Classes\Contato.cs" />
-    <Compile Include="Endereco.cs" />
     <Compile Include="FormPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
