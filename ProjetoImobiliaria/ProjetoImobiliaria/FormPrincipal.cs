@@ -132,5 +132,13 @@ namespace ProjetoImobiliaria
         {
 
         }
+
+        private void button1_Click_2(object sender, EventArgs e)
+        {
+            CadastroCliente cadastro = new CadastroCliente();
+            cadastro.ShowDialog();
+
+            
+        }
     }
 }

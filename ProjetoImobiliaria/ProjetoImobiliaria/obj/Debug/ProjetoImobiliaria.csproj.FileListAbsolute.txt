@@ -52,3 +52,4 @@ C:\Users\ana\Source\Repos\Imobiliaria\ProjetoImobiliaria\ProjetoImobiliaria\obj\
 C:\Users\ana\Source\Repos\Imobiliaria\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.csproj.CoreCompileInputs.cache
 C:\Users\ana\Source\Repos\Imobiliaria\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.exe
 C:\Users\ana\Source\Repos\Imobiliaria\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.pdb
+C:\Users\ana\Source\Repos\Imobiliaria\ProjetoImobiliaria\ProjetoImobiliaria\obj\Debug\ProjetoImobiliaria.CadastroCliente.resources
